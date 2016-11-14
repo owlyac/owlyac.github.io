@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({ 
-        strings: ["*Full-time or freelance.", "Get to know me!"],
+        strings: ["Get to know me!"],
         typeSpeed: 50,
         backDelay: 700,
         // loop
