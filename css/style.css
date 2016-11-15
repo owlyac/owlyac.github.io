@@ -626,12 +626,12 @@ ul.portfolio-image li:hover {
   cursor: pointer;
 }
 ul.portfolio-image li:hover img {
-  -webkit-filter: grayscale(20%);
+  -webkit-filter: grayscale(0%);
   transform: scale(1.15);
 }
 ul.portfolio-image li:hover .image-bg {opacity: 1;}
 ul.portfolio-image li:hover .description-wrap {
-  background: rgba(186, 186, 186, 0.6);
+  background: rgba(186, 186, 186, 0.9);
 }
 ul.portfolio-image li img {
   position: absolute;
