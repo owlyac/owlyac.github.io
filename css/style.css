@@ -697,7 +697,7 @@ ul.portfolio-image li .desc{
   font-family: 'Glyphter';
   font-size: 30px;
   line-height: 20px;
-  color: #932639;
+  color: #BD4B43;
   margin: 0;
 }
 .head-sm {
@@ -717,7 +717,7 @@ ul.portfolio-image li .desc{
 /*---------- c. experience -----------*/
 .wrap-card {
   position: relative;
-  box-shadow: 0px 0px 0px #932639;
+  box-shadow: 0px 0px 0px #BD4B43;
   transition: all 0.2s ease 0s;
   -webkit-transform: translateY(0px) translateX(0px);
 }
@@ -728,7 +728,7 @@ ul.portfolio-image li .desc{
   content: " ";
   width: 100%;
   height: 3px;
-  background: #932639;
+  background: #BD4B43;
   -webkit-transform: scaleX(0);
   transition: all 0.2s ease;
 }
@@ -743,7 +743,7 @@ ul.portfolio-image li .desc{
   -webkit-transform-origin: 100% 0;
 }
 .wrap-card:hover {
-  box-shadow: 20px 20px 0px #932639;
+  box-shadow: 20px 20px 0px #BD4B43;
   -webkit-transform: translateY(-10px) translateX(-10px);
   transition: all 0.2s ease 0.4s;
 }
@@ -764,7 +764,7 @@ ul.portfolio-image li .desc{
   content: " ";
   width: 3px;
   height: 100%;
-  background: #932639;
+  background: #BD4B43;
   -webkit-transform: scaleY(0);
   transition: all 0.2s ease 0.2s;
 }
@@ -1238,7 +1238,7 @@ ul.portfolio-image li .desc{
   width: 0px;
   position: relative;
 }
-.skillst .count-bar {background-color: #932639;}
+.skillst .count-bar {background-color: #BD4B43;}
 .skillst .count-bar span{ font-size: 12px;}
 .skillst .title {
   position: absolute;
