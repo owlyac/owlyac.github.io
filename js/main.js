@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({ 
-        strings: ["A visual artist.", "Graphic designer,", "front-end developer", "and photographer."],
+        strings: ["A visual artist", "from Lisbon"],
         typeSpeed: 50,
         backDelay: 700,
         // loop
@@ -138,13 +138,13 @@
     });
 
     //pop up porfolio
-    $('.portfolio-image li a').magnificPopup({
+    /* $('.portfolio-image li a').magnificPopup({
       type: 'image',
       gallery: {
         enabled: true
-      }
+      } 
       // other options
-    });
+    }); */
     
     //Skill
     jQuery('.skillbar').each(function() {
