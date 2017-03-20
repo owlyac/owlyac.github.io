@@ -484,7 +484,7 @@ p {
   line-height: 26px;
   letter-spacing: 1.5px;
   margin: 0 auto;
-  opacity: 0.6;
+  opacity: 1;
 }
 .year {
   font-size: 26px;
@@ -641,7 +641,7 @@ ul.portfolio-image li img {
   height: 100%;
   left: 0;
   top: 0;
-  -webkit-filter: grayscale(100%);
+  -webkit-filter: grayscale(0%);
   transition: filter, transform, 0.5s;
 }
 ul.portfolio-image li .decription-wrap {
@@ -650,7 +650,7 @@ ul.portfolio-image li .decription-wrap {
   height: 100%;
   top: 0;
   left: 0;
-  background: rgba(242, 242, 242, 0.4);
+  background: rgba(242, 242, 242, 0);
   padding: 20px;
   transition: background, 0.5s;
 }
