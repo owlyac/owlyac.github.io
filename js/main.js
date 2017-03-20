@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({ 
-        strings: ["A visual artist from Lisbon."],
+        strings: ["A digital designer from Lisbon."],
         typeSpeed: 50,
         backDelay: 700,
         // loop
